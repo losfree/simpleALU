@@ -1,5 +1,5 @@
 # simpleALU
-A design of 32-bit ALU
+A design of 32-bit ALU  
 Base on Quartus Prime 17.1 and VHDL
 
 ## Composition
