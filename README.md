@@ -3,11 +3,11 @@ A design of 32-bit ALU
 Base on Quartus Prime 17.1 and VHDL
 
 ## Composition
-![avatar](https://kyun.ltyuanfang.cn/tc/2020/10/21/0c69cfd288d43.png)
+![ALU.png](https://kyun.ltyuanfang.cn/tc/2020/10/21/0c69cfd288d43.png)  
 
 ## Connecting logic
-![avatar](https://kyun.ltyuanfang.cn/tc/2020/10/21/282a1b86cf1d8.bmp)
-(The jDiag unit is only a logical unit but not really exist. It is realized in top design
+![aluDiag.bmp](https://kyun.ltyuanfang.cn/tc/2020/10/21/282a1b86cf1d8.bmp)  
+(The jDiag unit is only a logical unit but not really exist. It is realized in top design)  
 
 ## Description of each part
 1. fd32
